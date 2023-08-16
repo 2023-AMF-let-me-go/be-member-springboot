@@ -1,4 +1,4 @@
-# spring-security-jwt-ssongplate
+# spring-security-jwt
 
 본 프로젝트는 `Java 17`, `Spring Boot 3.x` 기준으로 개발하였습니다.<br/>
 `Spring Security` + `JWT`를 활용한 인증 인가 템플릿입니다.<br/>
